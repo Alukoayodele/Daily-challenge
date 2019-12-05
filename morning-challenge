@@ -1,11 +1,25 @@
-To create a directory named my-folder
-- mkdir my-folder
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
 
-To create a named index.html
--touch index.html
+<h3>To create a directory named my-folder</h3>
+<p> mkdir my-folder</p>
 
-To check your current working directory
--pwd
+<h3>To create a file name index.html</h3>
+<p> touch index.html</p>
 
-To list the contents to your current working directory
--ls
+<h3>To check your current working directory</h3>
+<p> pwd</p>
+
+<h3>To list the contents of your current working directory</h3>
+<p> ls</p>
+
+  </body>
+</html>
