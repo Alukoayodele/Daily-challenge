@@ -1,0 +1,11 @@
+To create a directory named my-folder
+- mkdir my-folder
+
+To create a named index.html
+-touch index.html
+
+To check your current working directory
+-pwd
+
+To list the contents to your current working directory
+-ls
