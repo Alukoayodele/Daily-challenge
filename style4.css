@@ -1,0 +1,36 @@
+.blue, .red, .yellow, .green {
+    position: absolute;
+}
+.blue {
+    z-index: 1;
+    top: 50px;
+    left: 50px;
+    background: blue;
+}
+
+.red {
+    z-index: 2;
+    top: 100px;
+    left: 100px;
+    background: red;
+}
+
+.yellow {
+    z-index: 3;
+    top: 150px;
+    left: 150px;
+    background: yellow;
+}
+
+.green {
+    z-index: 4;
+    top: 200px;
+    left: 200px;
+    background: green;
+}
+div {
+    padding: 5px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+}
